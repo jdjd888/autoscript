@@ -2,6 +2,7 @@
 ### Service
 - Ubuntu 18, 20 & 22 ✅
 - Debian 9, 10 & 11 ✅
+- No Register IP ✅
 - Support Wildcard ✅
 - Vmess Websocket & gRPC
 - Vless Websocket & gRPC
