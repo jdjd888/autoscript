@@ -4,7 +4,7 @@
 - Debian 9, 10 & 11 ✅
 - No Register IP ✅
 - Support Wildcard ✅
-- Support CF-RAY ✅
+- Support Cuatom Xray-core / CF-RAY ✅
 - Vmess Websocket & gRPC
 - Vless Websocket & gRPC
 - Trojan Websocket & gRPC
