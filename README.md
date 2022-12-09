@@ -2,7 +2,7 @@
 ### Service
 - Ubuntu 18, 20 & 22 ✅
 - Debian 9, 10 & 11 ✅
-- CentOS 7, 8 ✅
+- CentOS 7 ✅
 - No Register IP ✅
 - Support Wildcard ✅
 - Support Custom Xray-core / CF-RAY ✅
