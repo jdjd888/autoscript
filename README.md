@@ -15,6 +15,8 @@
 ### Service Port
 - HTTPS / TLS : 443, 2053, 2083, 2087, 2096, 8443
 - HTTP : 80, 8080, 8880, 2052, 2082, 2086, 2095
+### Screenshot
+![gambar](https://raw.githubusercontent.com/dugong-lewat/autoscript/main/IMG_20221210_130908.jpg)
 ### Installation Links
 - Ubuntu / Debian
 
