@@ -5,6 +5,7 @@
 - CentOS 7 & 8✅
 - No Register IP ✅
 - Support Wildcard ✅
+- Support Virtualization KVM & OpenVZ ✅
 - Support Custom Xray-core / CF-RAY ✅
 - Vmess Websocket & gRPC
 - Vless Websocket & gRPC
